@@ -3,7 +3,7 @@ const resolver = {
 };
 
 const schema = `
-type Test: {
+type Test {
   id: String
 }
 `
